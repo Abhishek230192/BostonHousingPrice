@@ -1,5 +1,6 @@
-flask
-pandas 
+Flask
+sklearn
+pandas
 numpy
 matplotlib
-seaborn
+gunicorn
